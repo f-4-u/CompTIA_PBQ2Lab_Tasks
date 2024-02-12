@@ -1,6 +1,6 @@
 ip addr show eth0
 hostname
-cat /etc/resolve.conf
+cat cat /etc/resolv.conf
 nslookup www.google.com
 host www.google.com
 ping 64.233.177.104
